@@ -46,7 +46,7 @@ Weapons: The enemy agents are equipped with M4 assault rifles.
 Patrolling: The agents patrol the neighborhood using Navmesh agents from the Unity engine.
 ## Video Demo
 
-Here is a video demo of the game 
+Here is a video demo of the game https://youtu.be/Ucrp3dHSP04 
 * In the video you can check the armour going down as well as the health. I did not change anything in the code. Sometimes the enemy does critical damage, like a headshot therefore the armour doesnt take hits.
 
 ![image](https://github.com/meerak27/submission/assets/98391104/904d7be6-ed07-4bdf-8ce7-60bf4be47cfc)
